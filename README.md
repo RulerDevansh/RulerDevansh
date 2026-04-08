@@ -2,48 +2,21 @@
 
 ## 👋 Hi, I'm Devansh Srivastava  
 
-🚀 **Full Stack MERN Developer & AI Engineer**  
-🎓 **B.Tech CSE @ IIIT Pune**  
-💡 **Building scalable real-time & AI-powered systems**
+🚀 **Full Stack MERN Developer & AI Engineer** | 🎓 **B.Tech CSE @ IIIT Pune** | 💡 **AI + Real-time Systems Builder**
 
 ---
 
-## 🔭 What I'm Doing
-- Building **AI-integrated full-stack apps**
-- Working on **real-time systems (Socket.IO)**
+🔭 **Working on:** AI-integrated full-stack apps | Real-time systems (Socket.IO)  
 
----
+🌱 **Learning:** Advanced System Design | GenAI | Scalable architectures  
 
-## 🌱 Currently Learning
-- **Advanced System Design**
-- **GenAI & scalable architectures**
+👯 **Collaborate on:** MERN | Real-time apps | AI/ML projects  
 
----
+🤝 **Need help with:** Scaling AI systems | Backend architecture  
 
-## 👯 Open to Collaborate
-- MERN Stack projects  
-- Real-time applications  
-- AI/ML integrations  
+💬 **Ask me about:** MERN | Socket.IO | Gemini API | ML pipelines  
 
----
-
-## 🤝 Looking for Help With
-- Scaling AI-based applications  
-- Backend architecture optimization  
-
----
-
-## 💬 Ask Me About
-- MERN Stack  
-- Real-time apps (Socket.IO)  
-- AI integrations (Gemini API)  
-- ML pipelines  
-
----
-
-## ⚡ Fun Fact
-I use **AI + Full Stack** to automate real-world workflows  
-→ Reduced manual effort by **70% 🚀**
+⚡ **Fun fact:** Built systems that reduced manual work by **70% 🚀**
 
 
 ## 🌐 Socials:
