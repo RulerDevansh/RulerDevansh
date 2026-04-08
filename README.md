@@ -1,5 +1,49 @@
-# 💫 About Me:
-Hi 👋, I'm Devansh Srivastava<br><br>🚀 Full Stack MERN Developer & AI Engineer  <br>🎓 B.Tech CSE @ IIIT Pune<br>💡 Passionate about building scalable real-time apps & AI-powered systems  <br><br>- 🔭 Currently building AI-integrated full-stack applications  <br>- 🌱 Exploring advanced system design & GenAI  <br>- ⚡ Competitive Programmer (3⭐ CodeChef)<br><br>👯 I'm looking to collaborate on<br>Open-source projects in MERN stack, real-time apps, and AI/ML integrations<br><br>🤝 I'm looking for help with<br>Advanced system design and scaling AI-based applications<br><br>💬 Ask me about<br>MERN Stack, Real-time apps (Socket.IO), AI integrations (Gemini API), and ML pipelines<br><br>⚡ Fun fact<br>I combine AI + full-stack to automate real-world workflows (reduced manual effort by 70% in one project 🚀)
+# 💫 About Me
+
+## 👋 Hi, I'm Devansh Srivastava  
+
+🚀 **Full Stack MERN Developer & AI Engineer**  
+🎓 **B.Tech CSE @ IIIT Pune**  
+💡 **Building scalable real-time & AI-powered systems**
+
+---
+
+## 🔭 What I'm Doing
+- Building **AI-integrated full-stack apps**
+- Working on **real-time systems (Socket.IO)**
+
+---
+
+## 🌱 Currently Learning
+- **Advanced System Design**
+- **GenAI & scalable architectures**
+
+---
+
+## 👯 Open to Collaborate
+- MERN Stack projects  
+- Real-time applications  
+- AI/ML integrations  
+
+---
+
+## 🤝 Looking for Help With
+- Scaling AI-based applications  
+- Backend architecture optimization  
+
+---
+
+## 💬 Ask Me About
+- MERN Stack  
+- Real-time apps (Socket.IO)  
+- AI integrations (Gemini API)  
+- ML pipelines  
+
+---
+
+## ⚡ Fun Fact
+I use **AI + Full Stack** to automate real-world workflows  
+→ Reduced manual effort by **70% 🚀**
 
 
 ## 🌐 Socials:
